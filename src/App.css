@@ -1,0 +1,22 @@
+
+.gr{
+  width: 600px;
+}
+
+#pac{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.main-container{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+span{
+font-weight: 700;
+}
